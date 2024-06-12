@@ -1,0 +1,20 @@
+{
+    "name": "cleup/events",
+    "description": "A convenient event system for modifying and extending the web application platform",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cleup\\Components\\Events\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduard Y",
+            "email": "dev@priveted.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
